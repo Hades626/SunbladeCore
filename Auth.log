@@ -1,0 +1,19 @@
+TrinityCore rev. 0000-00-00 00:00:00 +0000 (Archived) (Win32, Release) (authserver)
+<Ctrl-C> to stop.
+
+Using configuration file authserver.conf.
+OpenSSL 1.0.1c 10 May 2012 (Library: OpenSSL 1.0.1c 10 May 2012)
+Opening DatabasePool 'auth'. Asynchronous connections: 1, synchronous connections: 1.
+MySQL client library: 5.5.9
+MySQL server ver: 5.5.9-log 
+Connected to MySQL database at 127.0.0.1
+MySQL client library: 5.5.9
+MySQL server ver: 5.5.9-log 
+Connected to MySQL database at 127.0.0.1
+DatabasePool 'auth' opened successfully. 2 total connections running.
+Started auth database connection pool.
+Updating Realm List...
+Added realm "Trinity" at 127.0.0.1:8085.
+The auth server process priority class has been set to HIGH
+Updating Realm List...
+Ping MySQL to keep connection alive
